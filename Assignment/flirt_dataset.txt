@@ -1,0 +1,207 @@
+date,time,speaker,message,flirt
+02/01/23,12:33 PM,Mabel Infoziant,Hey! How are you?,no
+01/01/23,12:01 PM,Mabel Infoziant,I’m good, just missing your smile.,yes
+04/01/23,01:03 PM,Mabel Infoziant,Haha stop it, you’ll make me blush!,yes
+06/01/23,04:35 PM,AR❤,You deserve to smile every day.,yes
+06/01/23,04:28 PM,Mabel Infoziant,What are you up to tonight?,no
+08/01/23,04:59 PM,Mabel Infoziant,Not much, just thinking about you.,yes
+07/01/23,01:17 PM,Mabel Infoziant,Lol, I bet you say that to everyone.,no
+03/01/23,11:12 AM,AR❤,No, only to the cute ones ;),yes
+02/01/23,02:31 PM,Mabel Infoziant,You’re incorrigible!,yes
+09/01/23,04:23 PM,AR❤,You love it tho?,yes
+03/01/23,10:33 AM,AR❤,Maybe I do…,yes
+01/01/23,06:32 PM,AR❤,Coffee tomorrow?,no
+03/01/23,06:04 PM,Mabel Infoziant,If you’re bringing that smile, always.,yes
+04/01/23,01:11 PM,Mabel Infoziant,Haha deal! See you at 10?,no
+03/01/23,03:49 PM,AR❤,Perfect! Can’t wait to see you.,yes
+03/01/23,01:29 PM,Mabel Infoziant,It's raining here, so cozy.,no
+02/01/23,06:49 PM,AR❤,Wish I was there to share that cozy vibe.,yes
+09/01/23,11:48 AM,Mabel Infoziant,You'd probably hog the blanket!,no
+08/01/23,02:59 PM,AR❤,Maybe, but I’d keep you warm.,yes
+09/01/23,08:26 PM,AR❤,Promises, promises…,yes
+01/01/23,09:23 AM,Mabel Infoziant,They’re real, just need a chance to prove it.,no
+05/01/23,10:59 AM,Mabel Infoziant,Alright, mister smooth talker,no
+07/01/23,02:15 PM,Mabel Infoziant,You started it!,no
+10/01/23,04:08 PM,AR❤,Okay, but don't go getting a big head.,no
+09/01/23,09:56 AM,AR❤,Too late, my heart's already swelling.,yes
+08/01/23,05:29 PM,Mabel Infoziant,Stop being cheesy!,no
+02/01/23,12:27 PM,AR❤,Just for you, I can’t help it.,yes
+07/01/23,03:29 PM,Mabel Infoziant,Have you eaten dinner?,no
+05/01/23,11:43 AM,AR❤,Not yet, unless dreaming of you counts.,yes
+01/01/23,12:34 PM,Mabel Infoziant,Haha, you’re funny,no
+03/01/23,01:52 PM,AR❤,I’m glad you think so, beautiful.,yes
+06/01/23,10:24 AM,Mabel Infoziant,Back from the gym. Tired!,no
+04/01/23,03:10 PM,AR❤,Bet you still look cute all sweaty.,yes
+02/01/23,03:01 PM,Mabel Infoziant,How was your day?,no
+05/01/23,01:36 PM,AR❤,Better after talking to you.,yes
+09/01/23,02:42 PM,AR❤,Want to watch a movie tomorrow?,no
+03/01/23,10:12 AM,Mabel Infoziant,Only if I get to sit next to you.,yes
+10/01/23,08:46 AM,AR❤,Fine, but no popcorn stealing!,no
+04/01/23,06:55 PM,AR❤,It tastes better sharing with you.,yes
+02/01/23,07:38 PM,Mabel Infoziant,Do you have any pets?,no
+01/01/23,12:12 PM,AR❤,Nope, just hoping to “fetch” your heart.,yes
+07/01/23,03:56 PM,Mabel Infoziant,Oh wow, smooth one!,yes
+03/01/23,05:14 PM,AR❤,I try my best for you.,yes
+01/01/23,11:39 AM,Mabel Infoziant,Are you working late again?,no
+08/01/23,10:29 AM,AR❤,Yeah, but just a text from you and I feel better.,yes
+05/01/23,02:13 PM,AR❤,I’m just a message away!,yes
+03/01/23,10:26 AM,Mabel Infoziant,That’s the best place to be—close to you.,yes
+02/01/23,12:45 PM,AR❤,You always know what to say.,yes
+09/01/23,06:54 PM,AR❤,Maybe because you inspire me.,yes
+10/01/23,07:03 PM,Mabel Infoziant,Did you finish that assignment?,no
+04/01/23,09:11 AM,Mabel Infoziant,Only if you join me next time.,yes
+07/01/23,11:19 AM,Mabel Infoziant,Haha you’re hopeless!,no
+05/01/23,08:51 AM,AR❤,Yeah, hopelessly into you.,yes
+01/01/23,07:37 PM,Mabel Infoziant,Listen to this new song!,no
+08/01/23,11:32 AM,AR❤,Send it over, if it reminds me of you I’ll love it.,yes
+05/01/23,02:02 PM,Mabel Infoziant,I got a haircut today!,no
+02/01/23,04:24 PM,AR❤,I bet you look absolutely amazing.,yes
+07/01/23,08:46 AM,Mabel Infoziant,Is your meeting over?,no
+03/01/23,09:13 AM,AR❤,Yes! Now I can focus on more important things—you.,yes
+06/01/23,03:04 PM,Mabel Infoziant,Aren’t you cold in this weather?,no
+01/01/23,11:26 AM,Mabel Infoziant,Only until I remember your hugs.,yes
+08/01/23,01:34 PM,AR❤,Why do you make these jokes?,no
+06/01/23,05:21 PM,Mabel Infoziant,Cause seeing you smile is my favorite thing.,yes
+03/01/23,10:54 AM,AR❤,Will you be at the party tonight?,no
+02/01/23,01:45 PM,Mabel Infoziant,Definitely! I heard someone special will be there.,yes
+09/01/23,02:47 PM,Mabel Infoziant,Maybe I’ll see you there then.,yes
+07/01/23,06:50 PM,AR❤,Your jokes are terrible!,no
+04/01/23,09:44 AM,Mabel Infoziant,But my heart’s in the right place—with you.,yes
+05/01/23,03:18 PM,Mabel Infoziant,You busy this weekend?,no
+06/01/23,07:26 PM,AR❤,Only if you’re not free to hang out.,yes
+01/01/23,04:38 PM,Mabel Infoziant,Bring your notes to study group!,no
+03/01/23,05:47 PM,Mabel Infoziant,With you as my study partner, how could I refuse?,yes
+09/01/23,06:12 PM,AR❤,That's sweet of you,no
+02/01/23,12:21 PM,Mabel Infoziant,I want to treat you the best way I know.,yes
+05/01/23,03:50 PM,Mabel Infoziant,Do you want to order pizza?,no
+03/01/23,06:35 PM,AR❤,Anything’s good, as long as I get to spend time with you.,yes
+08/01/23,07:14 PM,Mabel Infoziant,Where’s your favorite place to eat?,no
+01/01/23,09:59 AM,AR❤,Anywhere you are instantly becomes my favorite.,yes
+07/01/23,02:12 PM,Mabel Infoziant,You make everything romantic!,yes
+06/01/23,03:37 PM,Mabel Infoziant,Can’t help it around you!,yes
+10/01/23,11:05 AM,AR❤,You bought new shoes?,no
+09/01/23,08:30 PM,Mabel Infoziant,Maybe you’ll see them on our next date.,yes
+05/01/23,06:44 PM,Mabel Infoziant,You really think ahead, don’t you?,no
+02/01/23,01:19 PM,AR❤,Gotta impress the girl of my dreams sometime!,yes
+03/01/23,11:43 AM,Mabel Infoziant,You’re such a flirt!,yes
+07/01/23,08:20 PM,AR❤,Just learning from the best ;),yes
+06/01/23,09:00 AM,Mabel Infoziant,I’m not a flirt!,no
+01/01/23,10:11 AM,AR❤,Sure, but you make my heart race.,yes
+08/01/23,04:22 PM,Mabel Infoziant,Stop texting me so many hearts!,no
+02/01/23,12:55 PM,AR❤,Hearts are just my way of sending love to you.,yes
+07/01/23,01:37 PM,Mabel Infoziant,I’m going to block you, beware!,no
+05/01/23,02:26 PM,AR❤,Then I’d have to climb through your window just to say hi!,yes
+03/01/23,03:51 PM,Mabel Infoziant,You wouldn’t dare!,no
+10/01/23,07:40 PM,AR❤,Nothing can stop me from making you smile.,yes
+09/01/23,08:58 AM,Mabel Infoziant,What are friends for right?,no
+06/01/23,04:51 PM,Mabel Infoziant,Or maybe... something even closer?,yes
+02/01/23,05:17 PM,AR❤,My mom liked your gift!,no
+04/01/23,10:43 AM,Mabel Infoziant,She has good taste—like her daughter.,yes
+01/01/23,03:44 PM,AR❤,Do you want to join our game night?,no
+08/01/23,11:23 AM,Mabel Infoziant,Only if I get to be your partner.,yes
+09/01/23,12:31 PM,AR❤,I always win though!,no
+07/01/23,06:53 PM,Mabel Infoziant,I’m good luck when you’re around.,yes
+03/01/23,03:25 PM,Mabel Infoziant,We should take a selfie next time!,no
+10/01/23,10:36 AM,AR❤,Selfie with you? That’d be my new lock screen.,yes
+05/01/23,11:43 AM,Mabel Infoziant,You’re too much!,yes
+02/01/23,04:33 PM,Mabel Infoziant,Never enough, if it’s for you.,yes
+07/01/23,12:05 PM,Mabel Infoziant,See you in class tomorrow?,no
+09/01/23,02:18 PM,AR❤,Wouldn’t miss it if you’re there.,yes
+01/01/23,01:37 PM,Mabel Infoziant,Don’t be late again!,no
+08/01/23,06:35 PM,AR❤,My alarm is set on your message tone.,yes
+09/01/23,03:55 PM,Mabel Infoziant,Is that your secret?,no
+06/01/23,06:44 PM,Mabel Infoziant,Secret’s out: you’re my favorite reason.,yes
+03/01/23,08:32 PM,AR❤,Do you ever get tired of texting?,no
+02/01/23,09:14 AM,Mabel Infoziant,Only if you say goodnight without a kiss emoji.,yes
+07/01/23,06:03 PM,AR❤,Who needs emoji?,no
+05/01/23,07:41 PM,Mabel Infoziant,I’d rather show you in person.,yes
+01/01/23,08:38 AM,Mabel Infoziant,You’re such a charmer!,no
+10/01/23,12:07 PM,AR❤,I save my best charm for you.,yes
+06/01/23,02:30 PM,Mabel Infoziant,Think you’ll pass your exams?,no
+04/01/23,01:25 PM,AR❤,With a good luck wish from you, anything’s possible.,yes
+09/01/23,03:07 PM,Mabel Infoziant,You’re impossible,yes
+08/01/23,04:12 PM,AR❤,You’re irresistible.,yes
+01/01/23,11:55 AM,Mabel Infoziant,Is it raining over there?,no
+03/01/23,02:22 PM,AR❤,Yeah, it feels like a movie when I look out and think of you.,yes
+07/01/23,10:32 AM,Mabel Infoziant,Can you help with homework?,no
+02/01/23,12:17 PM,Mabel Infoziant,Of course, but you owe me dinner.,yes
+06/01/23,05:22 PM,AR❤,Fine, but only if you finish your notes.,no
+04/01/23,03:50 PM,Mabel Infoziant,Deal! Dinner date it is.,yes
+01/01/23,08:13 AM,Mabel Infoziant,I made cookies today!,no
+09/01/23,05:16 PM,AR❤,Are they as sweet as you?,yes
+05/01/23,12:29 PM,Mabel Infoziant,Can I call you?,no
+02/01/23,02:45 PM,AR❤,Hearing your voice is the best part of my day.,yes
+07/01/23,08:53 AM,Mabel Infoziant,Got any travel plans?,no
+03/01/23,07:55 PM,Mabel Infoziant,Only trips I want are the ones with you.,yes
+06/01/23,10:59 AM,AR❤,That’s a lot of cheesy lines!,no
+02/01/23,09:34 AM,Mabel Infoziant,Funny, they all come naturally talking to you.,yes
+01/01/23,10:44 PM,Mabel Infoziant,Do you watch anime?,no
+08/01/23,08:07 AM,AR❤,Only if you’ll be my co-watcher.,yes
+05/01/23,04:42 PM,Mabel Infoziant,You didn’t reply last night!,no
+04/01/23,11:53 AM,AR❤,Oops, I was dreaming about you.,yes
+03/01/23,04:58 PM,Mabel Infoziant,Tell me more,no
+06/01/23,01:39 PM,Mabel Infoziant,You were the star of my dream as always.,yes
+01/01/23,08:23 PM,AR❤,Do you cook?,no
+09/01/23,05:10 PM,AR❤,If you’ll be my taste tester, yes!,yes
+07/01/23,11:55 AM,Mabel Infoziant,You trust me to try your food?,no
+02/01/23,03:36 PM,AR❤,Only you, I’d risk anything for your smile.,yes
+05/01/23,06:24 PM,Mabel Infoziant,I’m heading out now,no
+03/01/23,07:14 PM,AR❤,Don’t forget to text me when you’re home safe.,yes
+09/01/23,02:10 PM,Mabel Infoziant,Careful, you sound like my mom!,no
+01/01/23,01:27 PM,AR❤,I’d much rather be your favorite person.,yes
+07/01/23,10:34 AM,Mabel Infoziant,Do you play guitar?,no
+04/01/23,05:45 PM,AR❤,I could learn just to serenade you.,yes
+02/01/23,09:20 AM,AR❤,You’d be off-key probably!,no
+05/01/23,11:58 AM,AR❤,You’d like it anyway if it’s for you.,yes
+01/01/23,01:19 PM,Mabel Infoziant,Let’s go to the park this weekend?,no
+09/01/23,09:45 AM,Mabel Infoziant,Only if you promise to hold my hand.,yes
+08/01/23,06:21 PM,AR❤,My friends think you’re funny!,no
+05/01/23,08:47 PM,Mabel Infoziant,Glad to have your approval, but I’m aiming for your heart.,yes
+02/01/23,05:58 PM,Mabel Infoziant,You’re silly!,no
+06/01/23,12:14 PM,AR❤,Just silly for you.,yes
+04/01/23,07:08 PM,Mabel Infoziant,When’s your birthday?,no
+01/01/23,10:51 AM,AR❤,Maybe you’ll let me spend it with you?,yes
+07/01/23,06:58 PM,Mabel Infoziant,You’re so mysterious!,no
+03/01/23,04:34 PM,Mabel Infoziant,That’s cause I’m saving all my secrets for you.,yes
+02/01/23,02:23 PM,AR❤,Did you see my story?,no
+05/01/23,01:53 PM,Mabel Infoziant,Couldn’t take my eyes off you.,yes
+01/01/23,03:19 PM,AR❤,Are you online all night?,no
+09/01/23,10:02 AM,Mabel Infoziant,Only if you are too.,yes
+07/01/23,04:17 PM,AR❤,Come help me pick an outfit!,no
+06/01/23,07:00 PM,Mabel Infoziant,I’d say anything looks good on you.,yes
+04/01/23,12:08 PM,Mabel Infoziant,That’s not helpful!,no
+01/01/23,01:41 PM,AR❤,Wish I were your mirror, then I’d see you all the time.,yes
+09/01/23,03:15 PM,Mabel Infoziant,I think you’ve got competition!,no
+02/01/23,08:56 AM,Mabel Infoziant,You’re the only one for me.,yes
+05/01/23,06:02 PM,AR❤,You forgot my note in class!,no
+03/01/23,10:20 AM,Mabel Infoziant,Sorry, I got lost in your eyes again.,yes
+06/01/23,03:31 PM,AR❤,Don’t say things like that!,no
+01/01/23,05:26 PM,Mabel Infoziant,Truth hurts but I can’t hold back for you.,yes
+07/01/23,06:49 PM,Mabel Infoziant,Nice try!,no
+02/01/23,02:08 PM,AR❤,One of these days my charm will work!,yes
+08/01/23,09:35 AM,Mabel Infoziant,Did you watch the sunset?,no
+10/01/23,02:21 PM,AR❤,Wish I was watching it with you.,yes
+03/01/23,11:12 AM,Mabel Infoziant,Have you seen my umbrella?,no
+05/01/23,01:07 PM,AR❤,No, but I can walk you home.,yes
+09/01/23,08:43 AM,Mabel Infoziant,You never miss a chance!,no
+02/01/23,01:57 PM,AR❤,Not when it comes to you.,yes
+04/01/23,08:37 PM,Mabel Infoziant,Did you draw that?,no
+01/01/23,12:14 PM,AR❤,I’d like to draw you next!,yes
+07/01/23,01:05 PM,Mabel Infoziant,That’s awkward!,no
+06/01/23,06:06 PM,AR❤,Maybe, but only beautiful things inspire me.,yes
+02/01/23,06:35 PM,Mabel Infoziant,One more game?,no
+08/01/23,07:58 PM,Mabel Infoziant,If you’re my teammate, always.,yes
+04/01/23,09:27 AM,AR❤,Your water bottle is nice!,no
+05/01/23,02:45 PM,Mabel Infoziant,But your smile is nicer.,yes
+03/01/23,11:48 AM,Mabel Infoziant,Try to chill for once!,no
+01/01/23,03:40 PM,AR❤,Only when you’re around do I feel my best.,yes
+06/01/23,12:14 PM,Mabel Infoziant,You make me laugh!,yes
+07/01/23,08:38 PM,AR❤,Hope I make your heart skip too.,yes
+09/01/23,10:55 AM,Mabel Infoziant,You make things interesting.,no
+01/01/23,01:25 PM,Mabel Infoziant,You make life better.,yes
+02/01/23,03:11 PM,AR❤,See you in the morning!,no
+04/01/23,10:54 AM,AR❤,Looking forward to it already.,no
+05/01/23,07:33 PM,Mabel Infoziant,Text me when you’re free?,no
+09/01/23,10:02 PM,Mabel Infoziant,Always free for you.,yes
+01/01/23,05:28 PM,AR❤,Goodnight!,no
+03/01/23,12:37 PM,Mabel Infoziant,Good night, dream of me!,yes
